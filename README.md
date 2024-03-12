@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1>Hello, I'm Joanna! </h1>
 
-<!--
-**joannaxju/joannaxju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> About Me:</h2>
 
-Here are some ideas to get you started:
+💅🏻 she/her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖋️ I am a current student at Pasadena City College.
+
+📐 Math is my favorite subject which makes my studies 200% more enjoyable.
+
+💻 My direction of study leans toward software development and computational mathematics.
+
+🐓 I am born in the year of the rooster by the Chinese zodiac.
+
+💚 I am a huge fan of the Korean boy group NCT Dream.
+
+<h2>👩🏻‍💻 Programming Projects:</h2>
+
+- <b>C++</b>
+  - [Battleship Game (console)](https://github.com/joannaxju/20231203_cpp-battleship-game)
+  - [Sudoku Game (console)](https://github.com/joannaxju/20240221_cpp-sudoku-game)
+- <b>Java</b>
+  - [JavaFx Game](https://github.com/joannaxju/202305_javafx-game) <b><i></b></i>
+- <b>Other</b>
+  - [SFML Programs](https://github.com/stars/joannaxju/lists/cpp-sfml)
+  - [Multiple File CPP Programs (console)](https://github.com/stars/joannaxju/lists/m-cpp-console)
+  - [Single File CPP Programs (console)](https://github.com/stars/joannaxju/lists/s-cpp-console)
+
+<h2> 📲 Connect with me:</h2>
+
+Personal Email: joannaju0818@gmail.com
+
+Student Email: jju6@go.pasadena.edu
+
+[<img align="left" alt="linkedin_symbol" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="instagram_symbol" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedin]: https://www.linkedin.com/in/joanna-ju-3a117124b/
+[instagram]: https://www.instagram.com/joannaxju/
