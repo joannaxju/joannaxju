@@ -33,4 +33,4 @@ Ultimately, I want to expand the range of processors I can design and explore wh
 
 ## 🔗 Links
 
-[📄 Resume](joanna_ju_resume.pdf) · [💼 LinkedIn](www.linkedin.com/in/joannaxiaolinju)
+📄 [Resume](joanna_ju_resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/joannaxiaolinju/)
