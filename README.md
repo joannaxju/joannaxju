@@ -2,8 +2,6 @@
 
 I'm a **Computer Engineering student at UC San Diego** interested in **processor design, computer architecture, and digital hardware systems**.
 
-I enjoy building computing systems from the hardware level up — from **instruction-set architecture and RTL design to assembly, verification, and FPGA implementation**.
-
 ## 🧠 Featured Project
 
 ### [Custom 8-Bit RISC Processor](https://github.com/joannaxju/custom-8bit-risc-processor)
