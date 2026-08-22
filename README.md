@@ -23,13 +23,13 @@ A complete custom processor designed from the ISA through hardware implementatio
 
 ## 🔭 What I'm Building Toward
 
-I'm building on my experience designing a custom RISC processor and working toward **more complex, performance-oriented processor architectures**.
+I'm interested in computer architecture, embedded systems, and digital hardware, especially where hardware and software come together to improve performance.
 
-During the **2026–27 school year**, I'm expanding my knowledge in **algorithms, parallel computing, computer graphics, and machine learning**, with the goal of understanding how different computational workloads influence processor design and performance.
+After designing a custom 8-bit RISC processor, I'm working toward more advanced processor architectures while expanding my experience with real-time embedded systems and high-performance computing.
 
-I'm interested in exploring how these areas can lead to different types of processors and architectures, from general-purpose CPUs to **parallel and specialized hardware for graphics, AI, and other compute-intensive workloads**.
+During the 2026–27 school year, I'm looking to build a stronger foundation in algorithms, parallel computing, computer graphics, and machine learning to better understand how different computational workloads shape architectural decisions.
 
-Ultimately, I want to expand the range of processors I can design and explore while developing a deeper understanding of the relationship between **algorithms, workloads, architecture, and hardware performance**.
+Long term, I want to explore general-purpose, parallel, and specialized architectures for applications ranging from embedded and real-time systems to graphics, AI, and high-performance computing.
 
 ## 🔗 Links
 
